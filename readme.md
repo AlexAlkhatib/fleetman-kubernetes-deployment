@@ -84,14 +84,14 @@ http://EXTERNAL-IP:80
 
 ## 🧠 Compétences démontrées
 
-✔ Mise en place d’un cluster Kubernetes complet
-✔ Déploiement d’une application distribuée multi-conteneurs
-✔ Utilisation avancée de manifests Kubernetes (YAML)
-✔ Compréhension des services : ClusterIP, LoadBalancer
-✔ Scalabilité via ReplicaSets et Deployments
-✔ Gestion des ressources locales (ingress, nodes, pods…)
-✔ Troubleshooting (kubectl logs, describe, get…)
-✔ Capacité à transformer un docker-compose en architecture Kubernetes
+- ✔ Mise en place d’un cluster Kubernetes complet
+- ✔ Déploiement d’une application distribuée multi-conteneurs
+- ✔ Utilisation avancée de manifests Kubernetes (YAML)
+- ✔ Compréhension des services : ClusterIP, LoadBalancer
+- ✔ Scalabilité via ReplicaSets et Deployments
+- ✔ Gestion des ressources locales (ingress, nodes, pods…)
+- ✔ Troubleshooting (kubectl logs, describe, get…)
+- ✔ Capacité à transformer un docker-compose en architecture Kubernetes
 
 
 ## 📄 Documentation technique
